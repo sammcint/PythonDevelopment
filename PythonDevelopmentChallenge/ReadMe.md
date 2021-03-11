@@ -1,6 +1,4 @@
-## Welcome to the Python Development Challenge
-
-#### Overview
+## Overview
 
 Create a Python application that will read from 3 input files and use the data within to produce 2 output
 files.
