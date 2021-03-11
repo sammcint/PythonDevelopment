@@ -1,13 +1,7 @@
 ## Overview
 
-Create a Python application that will read from 3 input files and use the data within to produce 2 output
-files.
+Created a Python application that read data from csv files, performed some ETL logic, and produced output csv files. The purpose of this was to create some basic functionality that could later be mass scaled and turned into a bigger project. Future scope of this functionality could include automation in order to provide any type of .csv related data to a business user. Reports, models, databases, etc..
 
-#### Constraints
-* Code to be written for Python 2.7 or higher
-* Code should only use built-in Python packages (and not use third-party packcages such as pandas)
-* Deliverable should be a zip file containing project code, related files, and instructions for installing and executing the application
-* While there is no specific guidance on the code, the resulting application should meet personal standards for a production-ready deployment 
 
 #### Input Files
 
