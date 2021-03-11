@@ -1,6 +1,6 @@
 ## Overview
 
-Created a Python application that read data from csv files, performed some ETL logic, and produced output csv files. The purpose of this was to create some basic functionality that could later be mass scaled and turned into a bigger project. Future scope of this functionality could include automation in order to provide any type of .csv related data to a business user. Reports, models, databases, etc..
+Created a basic Python application that read data from csv files, performed some ETL logic, and produced output csv files. The purpose of this was to create some basic functionality that could later be mass scaled and turned into a bigger project. Future scope of this functionality could include automation in order to provide any type of .csv related data to a business user. Reports, models, databases, etc..
 
 
 #### Input Files
