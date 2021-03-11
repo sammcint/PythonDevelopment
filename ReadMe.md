@@ -1,1 +1,1 @@
-#### This is a repository for any python related development 
+#### Repository for any python related practice development 
